@@ -1,3 +1,6 @@
+# To Play it Online Click Here:
+https://gd.games/instant-builds/00c15d8d-d04f-45f6-a03a-16af25b0a033
+
 # Stealth Escape – AI-Assisted 2D Game Project
 
 A 2D top-down stealth-puzzle game created using **GDevelop** and AI-assisted workflows. This project demonstrates how modern AI tools can be integrated with game engine mechanics to rapidly prototype, design, and build a functional game.
